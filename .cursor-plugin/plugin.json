@@ -1,0 +1,23 @@
+{
+  "name": "pomerado",
+  "displayName": "Pomerado",
+  "version": "1.0.0",
+  "description": "Connect your agents to any website. The cheaper, faster, and more reliable alternative to browser use.",
+  "author": {
+    "name": "Pomerado AI, Inc.",
+    "email": "founders@pomerado.ai"
+  },
+  "homepage": "https://pomerado.ai",
+  "repository": "https://github.com/Pomerado/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "pomerado",
+    "mcp",
+    "websites",
+    "web-automation",
+    "ai-agents",
+    "forms",
+    "research"
+  ],
+  "logo": "assets/logo.png"
+}
